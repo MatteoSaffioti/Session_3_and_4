@@ -10,7 +10,7 @@ This will be a list:
 2. Become Good
 3. Profit!
 
-![alt text](puppy and kitten.jpeg)
+![alt text](puppy%20and%20kitten.jpeg)
 
 ![otter should be here](otter.jpeg)
 
